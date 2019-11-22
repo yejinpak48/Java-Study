@@ -12,7 +12,7 @@ import java.io.OutputStreamWriter;
 public class TryCatchTest {
 	
 	public void methodA() {
-		System.out.println("methodA() »£√‚µ ...");
+		System.out.println("methodA() »£√‚µ ..."); 
 		
 		try {
 			methodB();
